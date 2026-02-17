@@ -8,5 +8,3 @@ This programm has maded in C and i used DevCPP to compile the code,this programm
 ```console
 csc.exe 
 ```
-
-## If you have some question about the real purpose of this .exe use dnSpy to show the functions of itself
